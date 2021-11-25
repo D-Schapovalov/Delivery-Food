@@ -108,7 +108,7 @@ body {
 	margin-bottom: 32px;
 }
 .slide-summer {
-	background: url("../images/slide-bg.png") center / cover no-repeat;
+	background: url("../images/slide-bg.jpeg") center / cover no-repeat;
 }
 .button {
 	border-radius: 25px;
@@ -153,10 +153,10 @@ body {
 	background: linear-gradient(90deg, rgba(0, 0, 0, 0.43) 40.45%, rgba(0, 0, 0, 0) 100%);
 }
 .card-bg {
-	background: url("../images/card-bg.png") center / cover no-repeat;
+	background: url("../images/card-bg.jpeg") center / cover no-repeat;
 }
 .card-bg2 {
-	background: url("../images/card-bg2.png") center / cover no-repeat;
+	background: url("../images/card-bg2.jpeg") center / cover no-repeat;
 }
 .card-header {
 	position: relative;
